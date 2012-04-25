@@ -1,6 +1,6 @@
 # Extracttool
 
-TODO: Write a gem description
+From a .strings file containing keys to translate, and a xlsm file containing all available translations, creates separated .strings files with keys/translations for every available language.
 
 ## Installation
 
